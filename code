@@ -5,7 +5,6 @@
   <title>🌸 Glowing Flower Calculator 🌼</title>
   <style>
     body {
-      background-image: url('https://i.imgur.com/BtBz2hD.png');
       background-size: cover;
       background-repeat: no-repeat;
       background-attachment: fixed;
